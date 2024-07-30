@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+    <meta charset="UTF-8">
+    <title> ilk html sayfam </title>
+
+       
+           </head>
+          
+            <body>
+
+<h1><center>EDA NAZ FURFURU</center></h1>
+<h2>Hakkımda</h2>
+<p>merhaba benim adım eda bilgisayar mühendisliği 2. sınıf öğrencisiyim 22 yaşındayım</p>
+<h3>ilgi alanlarım</h3>
+<ol type = "1">
+    <li>film</li>
+    <ul> 
+        <li>
+            <a href ="https://www.sinemalar.com/film/233/prestij">prestij</a>
+        </li>
+        <li>yıldızlararası</li>
+        <li>v for vandetta</li>
+    </ul>
+    <li>dizi </li>
+    <ul> 
+        <li>
+            <a href="https://www.sinemalar.com/film/233/prestij#google_vignette">game of thornes</a></li>
+        <li>prens</li>
+        <li>lucifer</li>
+    </ul>
+    <li>kitap</li>
+    <ul>
+        <li>simyacı</li>
+        <li>şeker portakalı</li>
+        <li>çalıkuşu</li>
+    </ul>
+    
+</ol>
+<h3>Sevdiğim diziler</h3>
+<h4> prestij</h4>
+<a href ="https://www.imdb.com/title/tt0944947/">
+<img src="c:\Users\Eda\Downloads\Ekran görüntüsü 2024-07-30 151134.jpg" alt="got"/></a>
+          
+            </body>
+
+            
+
+           
+
+       
+   
+</html>
